@@ -2,7 +2,7 @@
 
 **Democratizing Access to Legal and News Intelligence for Kenya**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 
 ## 🌍 About
 
@@ -70,7 +70,9 @@ Please check our contributing guidelines in individual repositories under the Am
 
 ## 📜 License
 
-AmaniQuery is open source and available under the MIT License. We believe in transparency and community-driven development.
+Copyright (c) 2025-2026 AmaniQuery. All rights reserved.
+
+This software is **proprietary and confidential**. Unauthorized copying, modification, distribution, or use is strictly prohibited without prior written permission from AmaniQuery.
 
 ## 📬 Contact & Community
 
@@ -85,7 +87,7 @@ AmaniQuery is open source and available under the MIT License. We believe in tra
 **AI-Powered Legal & News Intelligence Platform for Kenya**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://go.dev/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/Build-Passing-success)](https://github.com/amaniquery/amaniquery)
 
 AmaniQuery is an AI agent framework designed to democratize access to legal information and civil education in Kenya. Built with a production-ready, Go-based RAG (Retrieval-Augmented Generation) architecture, it provides accurate, contextual answers about Kenya Law and current affairs.
